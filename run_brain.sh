@@ -1,1 +1,1 @@
-./automaton -g -t data/brain_chaos.dat
+./automaton -s 10000 -t data/brain_chaos.dat
